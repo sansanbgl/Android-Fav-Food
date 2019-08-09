@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Makanan Favorit</string>
+    <string name="dish_name">Nama Makanan</string>
+    <string name="from">Asal</string>
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+    <string name="with_cardview">With Card View</string>
+    <string name="about">About</string>
+    <string name="desc">Desc</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+</resources>
