@@ -55,6 +55,7 @@ class MainActivity : AppCompatActivity() {
     private fun setMode(selectedMode: Int) {
         when (selectedMode) {
             R.id.action_list -> {
+                showRecyclerCardView()
             }
             R.id.action_about -> {
                 showAboutView()

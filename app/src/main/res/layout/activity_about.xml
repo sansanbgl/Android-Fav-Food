@@ -4,7 +4,7 @@
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#ff7ea0">
+                android:background="#70B5DB">
 
     <de.hdodenhof.circleimageview.CircleImageView
             android:id="@+id/profile_image"
@@ -17,12 +17,22 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="54dp"/>
     <TextView
+            android:id="@+id/profile_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="User Profile"
+            android:text="@string/umar_hasan"
             android:layout_below="@id/profile_image"
             android:layout_marginTop="15dp"
             android:layout_centerHorizontal="true"
-            android:textSize="15dp"/>
+            android:textStyle="bold"
+            android:textSize="30sp"/>
+    <TextView
+            android:text="@string/sansanbgl_yahoo_co_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/email"
+            android:textAlignment="center"
+            android:layout_below="@+id/profile_name"
+            android:layout_centerHorizontal="true" android:textSize="24sp"/>
 
 </RelativeLayout>
