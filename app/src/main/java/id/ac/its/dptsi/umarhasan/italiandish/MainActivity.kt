@@ -30,11 +30,6 @@ class MainActivity : AppCompatActivity() {
         showRecyclerCardView()
     }
 
-    private fun showRecyclerList() {
-        rvDishes.layoutManager = LinearLayoutManager(this)
-        val listDishAdapter = ListDishAdapter(list)
-        rvDishes.adapter = listDishAdapter
-    }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         menuInflater.inflate(R.menu.menu_main, menu)
@@ -54,9 +49,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun setMode(selectedMode: Int) {
         when (selectedMode) {
-            R.id.action_list -> {
-                showRecyclerCardView()
-            }
             R.id.action_about -> {
                 showAboutView()
             }

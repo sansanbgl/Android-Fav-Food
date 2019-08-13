@@ -8,5 +8,7 @@ data class Dish (
     var name: String = "",
     var from: String = "",
     var photo: String = "",
-    var desc: String = ""
+    var desc: String = "",
+    var related: String = "",
+    var misc: String = ""
     ):Parcelable

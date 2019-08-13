@@ -7,37 +7,81 @@ object DishesData {
             "Pizza",
             "Italy",
             "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
-            "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and various other ingredients (anchovies, olives, meat, etc.) baked at a high temperature, traditionally in a wood-fired oven. In formal settings, like a restaurant, pizza is eaten with knife and fork, but in casual settings it is cut into wedges to be eaten while held in the hand. Small pizzas are sometimes called pizzettas. The term pizza was first recorded in the 10th century in a Latin manuscript from the Southern Italian town of Gaeta in Lazio, on the border with Campania. Modern pizza was invented in Naples, and the dish and its variants have since become popular in many countries. It has become one of the most popular foods in the world and a common fast food item in Europe and North America, available at pizzerias (restaurants specializing in pizza), restaurants offering Mediterranean cuisine, and via pizza delivery. Many companies sell ready-baked frozen pizzas to be reheated in an ordinary home oven."
+            "A dish of Italian origin, consisting of a flat round base of dough baked with a topping of tomatoes and cheese, typically with added meat, fish, or vegetables: ‘a cheese and tomato pizza",
+            "Cheesy, Meaty, Vegan",
+            "Avaiable in freshly baked, or frozen to the microwave"
         ),
         arrayOf(
             "Aglio e Olio",
             "Italy",
             "https://upload.wikimedia.org/wikipedia/commons/6/6f/Aglio_e_olio.jpg",
-            "Spaghetti aglio e olio (pronounced [spaˈɡetti ˈaʎʎo e ˈɔːljo]; Italian for \"spaghetti [with] garlic and oil\") is a traditional Italian pasta dish from Naples. The dish is made by lightly sauteeing sliced, minced, or pressed garlic in olive oil, sometimes with the addition of dried red chili flakes (in which case its name is spaghetti aglio, olio e peperoncino), and tossing with spaghetti. Finely chopped parsley can also be added as a garnish, along with grated parmesan or pecorino cheese, although according to some traditional recipes, cheese should not be added."
+            "Spaghetti aglio e olio (pronounced [spaˈɡetti ˈaʎʎo e ˈɔːljo]; Italian for \"spaghetti [with] garlic and oil\") is a traditional Italian pasta dish from Naples. The dish is made by lightly sauteeing sliced, minced, or pressed garlic in olive oil, sometimes with the addition of dried red chili flakes (in which case its name is spaghetti aglio, olio e peperoncino), and tossing with spaghetti. Finely chopped parsley can also be added as a garnish, along with grated parmesan or pecorino cheese, although according to some traditional recipes, cheese should not be added.",
+            "Vegan, Savory",
+            "A type of pasta dishes"
         ),
         arrayOf(
             "Chicken parmigiana",
-            "Sutomo (lahir di Surabaya, Jawa Timur, 3 Oktober 1920 – meninggal di Padang Arafah, Arab Saudi, 7 Oktober 1981 pada umur 61 tahun) lebih dikenal dengan sapaan akrab oleh rakyat sebagai Bung Tomo, adalah pahlawan yang terkenal karena peranannya dalam membangkitkan semangat rakyat untuk melawan kembalinya penjajah Belanda melalui tentara NICA, yang berakhir dengan pertempuran 10 November 1945 yang hingga kini diperingati sebagai Hari Pahlawan.",
-            "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bung_Tomo.jpg",
+            "USA",
+            "https://thehealthyfoodie.com/wp-content/uploads/2018/03/Chicken-Parmigiana-17.jpg",
+            "dish that consists of breaded chicken breast covered in tomato sauce and mozzarella, parmesan, or provolone cheese.[1] A slice of ham or bacon is sometimes added.[2][3] It is also known colloquially in the United States as chicken parm[4] and in Australia as a parma, parmi, or parmy",
+            "Meat, Cheese",
             ""
         ),
         arrayOf(
-            "Gatot Soebroto",
-            "Jenderal TNI (Purn.) Gatot Soebroto (lahir di Sumpiuh, Banyumas, Jawa Tengah, 10 Oktober 1907 – meninggal di Jakarta, 11 Juni 1962 pada umur 54 tahun) adalah tokoh perjuangan militer Indonesia dalam merebut kemerdekaan dan juga pahlawan nasional Indonesia. Ia dimakamkan di Ungaran, kabupaten Semarang.",
-            "https://upload.wikimedia.org/wikipedia/commons/b/be/Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg",
-            ""
+            "Ambrosia (Fruit Salad)",
+            "USA",
+            "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ambrosia_salad.jpg",
+            "Ambrosia is an American variety of fruit salad. Most ambrosia recipes contain: canned (often sweetened) or fresh pineapple, canned mandarin orange slices or fresh orange sections, miniature marshmallows,[1] and coconut.[2] Other ingredients might include various fruits and nuts: maraschino cherries, bananas, strawberries,[3] peeled grapes, and/or crushed pecans. Ambrosia can also include mayonnaise or dairy ingredients: whipped cream (or whipped topping like Cool Whip), sour cream, cream cheese, pudding, yoghurt, and/or cottage cheese.",
+            "Fruit, Cheese, Eggs",
+            "Nice fruit salad, most enjoyable when served cold"
         ),
         arrayOf(
-            "Ki Hadjar Dewantarai",
-            "Raden Mas Soewardi Soerjaningrat (EBI: Suwardi Suryaningrat, sejak 1922 menjadi Ki Hadjar Dewantara, EBI: Ki Hajar Dewantara, beberapa menuliskan bunyi bahasa Jawanya dengan Ki Hajar Dewantoro; lahir di Pakualaman, 2 Mei 1889 – meninggal di Yogyakarta, 26 April 1959 pada umur 69 tahun; selanjutnya disingkat sebagai \"Soewardi\" atau \"KHD\") adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda.",
-            "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ki_Hadjar_Dewantara_Mimbar_Umum_18_October_1949_p2.jpg",
-            ""
+            "Burger",
+            "USA",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RedDot_Burger.jpg/2560px-RedDot_Burger.jpg",
+            "Hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, or flame broiled.",
+            "Meat, Vegan, Flour",
+            "Popular as fast food"
         ),
         arrayOf(
-            "Mohammad Hatta",
-            "Dr.(HC) Drs. H. Mohammad Hatta (lahir dengan nama Mohammad Athar, dikenal sebagai Bung Hatta; lahir di Fort de Kock (sekarang Bukittinggi, Sumatera Barat), Hindia Belanda, 12 Agustus 1902 – meninggal di Jakarta, 14 Maret 1980 pada umur 77 tahun) adalah tokoh pejuang, negarawan, ekonom, dan juga Wakil Presiden Indonesia yang pertama. Ia bersama Soekarno memainkan peranan penting untuk memerdekakan bangsa Indonesia dari penjajahan Belanda sekaligus memproklamirkannya pada 17 Agustus 1945. Ia juga pernah menjabat sebagai Perdana Menteri dalam Kabinet Hatta I, Hatta II, dan RIS. Ia mundur dari jabatan wakil presiden pada tahun 1956, karena berselisih dengan Presiden Soekarno. Hatta juga dikenal sebagai Bapak Koperasi Indonesia.",
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/VP_Hatta.jpg/330px-VP_Hatta.jpg",
-            ""
+            "Steak",
+            "Many Countries",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Beef_fillet_steak_with_mushrooms.jpg/600px-Beef_fillet_steak_with_mushrooms.jpg",
+            "A high-quality beef taken from the hindquarters of the animal, typically cut into thick slices that are cooked by broiling or frying.",
+            "Meat, Garnish Vegan",
+            "Many countries has it's own style"
+        ),
+        arrayOf(
+            "Sandwich",
+            "United Kingdom",
+            "https://upload.wikimedia.org/wikipedia/commons/e/e6/BLT_sandwich_on_toast.jpg",
+            "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve as a container or wrapper for another food type.The sandwich began as a portable finger food in the Western world, though over time it has become prevalent worldwide.",
+            "Meat, Bread, Cheese, Vegan",
+            "Good choice for breakfast, and lunch"
+        ),
+        arrayOf(
+            "Pancake",
+            "Many Countries",
+            "https://upload.wikimedia.org/wikipedia/commons/4/43/Blueberry_pancakes_%283%29.jpg",
+            "a flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter. Archaeological evidence suggests that pancakes were probably the earliest and most widespread cereal food eaten in prehistoric societies",
+            "Flour, Eggs, Sugar, Syrup",
+            "Many References regarding pancakes since it's so general"
+        ),
+        arrayOf(
+            "Lasagna",
+            "Italy",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lasagne_-_stonesoup.jpg/1920px-Lasagne_-_stonesoup.jpg",
+            "a type of wide, flat pasta, possibly one of the oldest types of pasta. Lasagne, or the singular lasagna, commonly refers to a culinary dish made with stacked layers of pasta alternated with sauces and ingredients such as meats, vegetables and cheese, and sometimes topped with melted grated cheese.Typically, the cooked pasta is assembled with the other ingredients and then baked in an oven. The resulting lasagne casserole is cut into single-serving square portions",
+            "Durum Wheat, Meat, Tomato",
+            "Another form of spagetti"
+        ),
+        arrayOf(
+            "Rissoto",
+            "Italy",
+            "https://www.tasteofhome.com/wp-content/uploads/2018/05/Parmesan-Risotto_EXPS_HPLBZ18_33569_B05_18_5b-696x696.jpg",
+            "Risotto is a northern Italian rice dish cooked with broth until it reaches a creamy consistency. The broth can be derived from meat, fish, or vegetables. Many types of risotto contain butter, onion, white wine, and parmesan cheese. It is one of the most common ways of cooking rice in Italy",
+            "Arborio Rice, Chicken/Meat Stock, Cheese",
+            "A Creamy italian Dish"
         )
     )
     val listData: ArrayList<Dish>
@@ -49,6 +93,8 @@ object DishesData {
                 dish.from = aData[1]
                 dish.photo = aData[2]
                 dish.desc = aData[3]
+                dish.related = aData[4]
+                dish.misc = aData[5]
                 list.add(dish)
             }
             return list
